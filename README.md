@@ -17,3 +17,4 @@ This project analyzes vendor sales performance using **SQL**, **Python**, and **
   - Unsold Inventory
 
 ## 📊 DashBoard Preview
+![Dashboard Preview](VendorPerformance.png)
